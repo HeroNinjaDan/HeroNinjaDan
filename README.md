@@ -32,8 +32,8 @@
 ##
 ### Minhas IDES e Editores de Código ⌨️🖱️
 <div style="display: inline_block">
-  <img align="center" alt="Miltin-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Miltin-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Dan-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Dan-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Dan-GML" height="30" width="40" src="https://www.filepicker.io/api/file/CFNm2o8yTMmrxIeIr0bm" />
 </div>
 
