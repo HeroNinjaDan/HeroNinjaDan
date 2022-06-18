@@ -1,4 +1,7 @@
 ### Olá! Me chamo Daniel Rocha e seja muito bem vindo ao meu perfil! 👋
+
+- 📚 Cursando **Bacharelado em Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO) - 1° Período**;
+- 📫 Contate-me no e-mail: frleinad@gmail.com.
 - 🔭 Estou trabalhando ultimamente em um projeto no GameMaker chamado Sirpat
 
 <h1 align="center">
