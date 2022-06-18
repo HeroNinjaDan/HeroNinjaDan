@@ -42,4 +42,4 @@
 
 ##
 ### Minha atividade 🏃🏻‍♂️✅
-![Snake animation](https://github.com/heroninjadan/heroninjadan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HeroNinjaDan/HeroNinjaDan/blob/output/github-contribution-grid-snake.svg)
