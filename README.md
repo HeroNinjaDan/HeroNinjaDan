@@ -1,6 +1,13 @@
-# Olá! Me chamo Daniel Rocha e seja muito bem vindo ao meu perfil! 👋
+### Olá! Me chamo Daniel Rocha e seja muito bem vindo ao meu perfil! 👋
 - 🔭 Estou trabalhando ultimamente em um projeto no GameMaker chamado Sirpat
 
+
+##
+### Meus Stats 🤖📃
+<div align-items="center" justify-content="center">
+    <img height="150em" src="github-readme-stats.vercel.app/api?username=HeroNinjaDan&theme=tokyonight">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeroNinjaDan&layout=compact&theme=tokyonight">
+  </div>
 <h1 align="center">
     <img src="Sirpat.gif" style="display: inline; text-align: center;">
 </h1>
