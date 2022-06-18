@@ -1,4 +1,9 @@
-### Hi there 👋
+# Olá! Me chamo Daniel Rocha e seja muito bem vindo ao meu perfil! 👋
+- 🔭 Estou trabalhando ultimamente em um projeto no GameMaker chamado Sirpat
+
+<h1 align="center">
+    <img src="Sirpat.gif" style="display: inline; text-align: center;">
+</h1>
 
 <!--
 **HeroNinjaDan/HeroNinjaDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
