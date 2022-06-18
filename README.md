@@ -5,7 +5,7 @@
 ##
 ### Meus Stats 🤖📃
 <div align-items="center" justify-content="center">
-    <img height="150em" src="github-readme-stats.vercel.app/api?username=HeroNinjaDan&theme=tokyonight">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HeroNinjaDan&theme=tokyonight">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeroNinjaDan&layout=compact&theme=tokyonight">
   </div>
 <h1 align="center">
