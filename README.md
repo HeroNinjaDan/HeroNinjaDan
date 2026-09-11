@@ -1,7 +1,7 @@
-### Olá! Me chamo Daniel Rocha e seja muito bem vindo ao meu perfil! 👋
+### Olá! Me chamo Dani Rocha e seja muito bem vindo(a) ao meu perfil! 👋
 
-- 📚 Cursando **Bacharelado em Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO) - 1° Período**;
-- 📫 Contate-me no e-mail: frleinad@gmail.com.
+- 📚 Cursando **Bacharelado em Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO) - 8° Período**;
+- 📫 Contate-me no e-mail: danifernandestech@gmail.com.
 - 🔭 Estou trabalhando ultimamente em um projeto no GameMaker chamado Sirpat
 
 <h1 align="center">
@@ -40,7 +40,7 @@
 ##
 ### Informações para contato 📧📨
 <div>
-  <a href="mailto:frleinad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:danifernandestech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ##
